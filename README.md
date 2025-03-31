@@ -1,4 +1,4 @@
-# A open source Library of AI prompts
+# High quality library if prompts for website builders (v0, lovable), images, videos
 
 PLEASE CONTRIBUTE TO THIS PROJECT, I WILL BE WORKING ON THIS EXTENSIVELY THIS SUMMER !!
 
