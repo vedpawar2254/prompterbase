@@ -3,8 +3,7 @@
 PLEASE CONTRIBUTE TO THIS PROJECT, I WILL BE WORKING ON THIS EXTENSIVELY THIS SUMMER !!
 
 I WOULD REALLY APPRECIATE ANY HELP THAT WE GET
-  
-
+   
 ## Quick Start
 
 This is a  [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
