@@ -1,7 +1,7 @@
 # High quality library of prompts for website builders (v0, lovable), images, videos
 
 PLEASE CONTRIBUTE TO THIS PROJECT, I WILL BE WORKING ON THIS EXTENSIVELY THIS SUMMER !!
-
+ 
 I WOULD REALLY APPRECIATE ANY HELP THAT WE GET
 
 Made so for effecient prompting
