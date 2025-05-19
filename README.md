@@ -4,7 +4,7 @@ PLEASE CONTRIBUTE TO THIS PROJECT, I WILL BE WORKING ON THIS EXTENSIVELY THIS SU
  
 I WOULD REALLY APPRECIATE ANY HELP THAT WE GET
 
-Made so for effecient prompting
+Made so for effecient prompting 
 
 ## Quick Start
 
